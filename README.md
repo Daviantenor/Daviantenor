@@ -48,7 +48,11 @@
 
 - 📷 Instagram: [daviantenor260@gmail.com)
 - Facebook: [Davi Antenor)
-
+<p align="center">
+  <a href="https://facebook.com/SEU_PERFIL" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+</p>
 ---
 
 <p align="center">
