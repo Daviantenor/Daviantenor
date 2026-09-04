@@ -24,10 +24,13 @@ Atualmente, estou buscando **minha primeira oportunidade de trabalho**, para adq
 - Gosto de aprender coisas novas.  
 - Tenho interesse em tecnologia e desenvolvimento pessoal.  
 - Sempre procuro evoluir um pouco mais a cada dia.
-
+---
+## 🥷 Habilidades 
+* Experiência em Python
+* Manuseio de Excel
 ---
 
-## 📫 Contato
+## 📫 Contatos
  <p align="center">
    <a target= "_blank" href="https://www.instagram.com/davizin_vh/" alt="Instagram"><img height='45' src="https://github.com/Daviantenor/Daviantenor/blob/main/icons/Instagram_icon.png"></a>
 ---
