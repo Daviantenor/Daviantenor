@@ -1,11 +1,11 @@
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-👋 Sobre mim
+## 👋 Sobre mim
 
 ---
 
 ## 🧍‍♂️ Informações pessoais
-
+<img width=100% src=./assets/me.jpg width="50" height="500"/>
 - **Nome:** Davi  
 - **Idade:** 16 anos  
 - **Ano escolar:** 1° ano do ensino médio  
