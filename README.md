@@ -12,14 +12,33 @@ Estou em busca da minha primeira oportunidade profissional, onde possa colocar m
 
 💡 "Todo grande começo nasce de uma simples tentativa."
 
-🎯 Meu objetivo
+
+## 🎯 Meu objetivo
+
 Busco uma oportunidade que me permita:
 
-🚀 Adquirir experiência profissional
-🧠 Aprender novas tecnologias e desenvolver novas habilidades
-🤝 Melhorar minha comunicação e trabalho em equipe
-📈 Crescer pessoal e profissionalmente
-💼 Colocar meus conhecimentos em prática
+<table>
+  <tr>
+    <td>🚀</td>
+    <td><strong>Adquirir experiência profissional</strong></td>
+  </tr>
+  <tr>
+    <td>🧠</td>
+    <td><strong>Aprender novas tecnologias e desenvolver novas habilidades</strong></td>
+  </tr>
+  <tr>
+    <td>🤝</td>
+    <td><strong>Melhorar minha comunicação e trabalho em equipe</strong></td>
+  </tr>
+  <tr>
+    <td>📈</td>
+    <td><strong>Crescer pessoal e profissionalmente</strong></td>
+  </tr>
+  <tr>
+    <td>💼</td>
+    <td><strong>Colocar meus conhecimentos em prática</strong></td>
+  </tr>
+</table>
 <br clear="right"/>
 🧠 Habilidades
 <div align="center">
