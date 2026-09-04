@@ -1,30 +1,37 @@
-👋 Olá, eu sou o Davi!
-🎓 Estudante do 1º ano do Ensino Médio
-💼 Em busca da minha primeira oportunidade profissional
-💻 Interessado em Tecnologia, Programação e Desenvolvimento Pessoal
+👋 Sobre mim
 
-"Todo grande começo nasce de uma simples tentativa."
+---
 
-🧑‍💻 Sobre mim
-Tenho 16 anos e estou buscando minha primeira oportunidade de trabalho.
-Sou uma pessoa curiosa, dedicada e com vontade de aprender e desenvolver novas habilidades.
+## 🧍‍♂️ Informações pessoais
 
-Atualmente, estou estudando e aprimorando meus conhecimentos em tecnologia, principalmente em Python e Excel.
+- **Nome:** Davi  
+- **Idade:** 16 anos  
+- **Ano escolar:** 1° ano do ensino médio  
+- **Objetivo atual:** Em busca do meu primeiro emprego  
 
-🛠️ Habilidades
-🐍 Python — conhecimentos e experiência
-📊 Excel — conhecimentos em planilhas e ferramentas
-💡 Facilidade para aprender coisas novas
-📚 Interesse em desenvolvimento pessoal e profissional
-🎯 Objetivo
-Busco uma oportunidade que me permita:
+---
 
-Adquirir experiência profissional
-Aprender novas habilidades
-Colocar meus conhecimentos em prática
-Crescer profissionalmente
-Contribuir com a equipe
-📫 Contato
+## 🎯 Objetivo
+
+> "Todo grande começo nasce de uma simples tentativa."
+
+Atualmente, estou buscando **minha primeira oportunidade de trabalho**, para adquirir experiência, aprender novas habilidades e crescer pessoal e profissionalmente.
+
+---
+
+## 🧠 Curiosidades
+
+- Gosto de aprender coisas novas.  
+- Tenho interesse em tecnologia e desenvolvimento pessoal.  
+- Sempre procuro evoluir um pouco mais a cada dia.
+---
+## 🥷 Habilidades 
+* Experiência em Python
+* Manuseio de Excel
+---
+
+## 📫 Contatos
+
 <div align="left"> <a href="https://www.instagram.com/davizin_vh/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a> <a href="https://wa.me/SEUNUMERO" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a> </div>
 <div align="center">
 🚀 Em constante aprendizado e evolução.
